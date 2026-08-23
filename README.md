@@ -1,5 +1,7 @@
 # 🚀 INFI | Next-Generation Multiplatform AI Voice Assistant
 
+**Live Deployment URL:** 👉 **[https://myaiassistant-tau.vercel.app](https://myaiassistant-tau.vercel.app)**
+
 **INFI** is a high-fidelity, intelligent AI voice assistant designed to function seamlessly across both **mobile** and **desktop** platforms. Using a sleek dark glassmorphic design and the browser's native Web Speech API, INFI provides quick, hands-free interactions, mathematics execution, code solving, music streaming, and local desktop control.
 
 ---
